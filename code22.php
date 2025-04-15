@@ -9,7 +9,7 @@
         }
     
         /* example 2 */
-        echo "<br>Another Way\t";
+        echo "\nAnother Way\t";
         for ($i = 1; ; $i++)
         {
             if ($i > 10)
@@ -19,7 +19,7 @@
             echo $i;
     	    echo "\t";
         }
-        echo "<br><br>";
+        echo "\n\n";
         echo "Code executed by Krish Talwar(0221BCA160)(2220100331)";
 
 ?>

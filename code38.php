@@ -5,22 +5,22 @@
 	// Union
 	$union = $a + $b; 
 	print_r($union); // Keeps values from $a for duplicate keys
-	echo "<br>";
+	echo "\n";
 
 	// Equality
 	var_dump($a == ["a" => 1, "b" => 2, "c" => 3]); // true
-	echo "<br>";
+	echo "\n";
 
 	// Identity
 	var_dump($a === ["a" => 1, "b" => 2, "c" => 3]); // true (same order)
-	echo "<br>";
+	echo "\n";
 
 	// Inequality
 	var_dump($a != $b); // true
-	echo "<br>";
+	echo "\n";
 	
 	// Non-identity
 	var_dump($a !== ["b" => 2, "a" => 1, "c" => 3]); // true (order mismatch)
-	echo "<br><br>";
+	echo "\n\n";
 	echo "Code executed by Krish Talwar(0221BCA160)(2220100331)";
 ?>

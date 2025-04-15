@@ -11,6 +11,6 @@
     	$d = 0123; // octal number
     	var_dump($d); 
 	
-	echo "<br><br>Code executed by Krish Talwar(0221BCA160)(2220100331)";
+	echo "\n\nCode executed by Krish Talwar(0221BCA160)(2220100331)";
 
 ?>

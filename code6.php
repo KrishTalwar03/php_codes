@@ -2,7 +2,7 @@
 
     	$colors = array("Red", "Green", "Blue");
     	var_dump($colors);
-	echo "<br><br>";
+	echo "\n\n";
      
     	$color_codes = array(
         	"Red" => "#ff0000",
@@ -10,7 +10,7 @@
         	"Blue" => "#0000ff"
 	);
     	var_dump($color_codes);
-	echo "<br><br>";
+	echo "\n\n";
 	echo "Code executed by Krish Talwar(0221BCA160)(2220100331)";
 
 ?>

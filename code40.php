@@ -6,6 +6,6 @@
 
 	$number = 5;
 	echo "Factorial of $number is: " . factorial($number);
-	echo "<br><br>";
+	echo "\n\n";
 	echo "Code executed by Krish Talwar(0221BCA160)(2220100331)";
 ?>
